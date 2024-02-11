@@ -1,4 +1,5 @@
-I use neovim btw
+raod to becoming a 10x dev...
+(i use neovim btw)
 
 ---
 
